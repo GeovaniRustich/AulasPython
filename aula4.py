@@ -15,3 +15,6 @@ print(1.1, -11.5)
 
 # A função type mostra o tipo que o python
 # inferiu o valor
+print(type('Geovani'))
+print(type(1.1))
+print(type(1), type (-1.1), type(0.0))
